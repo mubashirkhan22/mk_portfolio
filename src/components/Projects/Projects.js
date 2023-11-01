@@ -8,9 +8,9 @@ import editor from "../../Assets/Projects/codeEditor.png";
 // import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
-import medicalImg from '../../Assets/paramedical.jpg';
-import bg from '../../Assets/bg.jpg';
-import ngo from '../../Assets/ngo-registration.jpg.jpg';
+import medicalImg from "../../Assets/paramedical.jpg";
+import bg from "../../Assets/bg.jpg";
+import ngo from "../../Assets/ngo-registration.jpg.jpg";
 
 function Projects() {
   return (
@@ -24,18 +24,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={medicalImg}
               isBlog={false}
               title="Swarajya para medical college"
               description="Swarajya para medical college, it is a college web site that help everyone let know all information about the college also have admin login accsess and student can download pdfs from the web site "
               ghLink="https://github.com/Junaidkhan5423/swarajya"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://swarajyaparamedix.in/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -44,16 +44,17 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
               title="ED jobster"
-              description="It is a job hiring Plateform that helps HR to find out right candidate for the job from the colleges"
-            
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="It is a job hiring Plateform that helps HR to find out right candidate for the job from the colleges.
+              Interview scheduling becomes really easy with Edjobster’s interview scheduling module.Pre-screening assessment is the most time saving
+              feature for a recruiter."
+              demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 

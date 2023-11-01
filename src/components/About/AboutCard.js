@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Pathan Mubashir Khan </span>
             from <span className="purple"> Maharashtra, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a FrontEnd Developer, React js Developer and have completed my Graduation from BAMU University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
