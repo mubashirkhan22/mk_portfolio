@@ -48,23 +48,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="ED jobster"
-              description="It is a job hiring Plateform that helps HR to find out right candidate for the job from the colleges.
-              Interview scheduling becomes really easy with Edjobster’s interview scheduling module.Pre-screening assessment is the most time saving
-              feature for a recruiter."
-              demoLink="https://editor.soumya-jit.tech/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={bg}
               isBlog={false}
               title="Skyline Construction pvt ltd"
               description="It is a Constuction company's web site wich provides information about company such as strenght, Assets,Manpower and the Projects that have completed by the company and provides more information "
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://www.skyline.org.in/"
             />
           </Col>
 
@@ -87,6 +75,18 @@ function Projects() {
               description="It is a NGO app wich help needy persons, who are in truble and the donator can find easy way to charity and also it provides all the information about the web site  "
               // ghLink="https://github.com/laique7864/ojas-ngo"
               demoLink="https://ojaspbn.in"
+            />
+          </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="ED jobster"
+              description="It is a job hiring Plateform that helps HR to find out right candidate for the job from the colleges.
+              Interview scheduling becomes really easy with Edjobster’s interview scheduling module.Pre-screening assessment is the most time saving
+              feature for a recruiter."
+              demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
         </Row>
