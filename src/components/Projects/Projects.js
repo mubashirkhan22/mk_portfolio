@@ -9,6 +9,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 // import suicide from "../../Assets/Projects/suicide.png";
 // import bitsOfCode from "../../Assets/Projects/blog.png";
 import medicalImg from "../../Assets/paramedical.jpg";
+import workflow from "../../Assets/Workflow illustration.jpeg"
 import bg from "../../Assets/bg.jpg";
 import ngo from "../../Assets/ngo-registration.jpg.jpg";
 
@@ -77,7 +78,7 @@ function Projects() {
               demoLink="https://ojaspbn.in"
             />
           </Col>
-          
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
@@ -86,7 +87,18 @@ function Projects() {
               description="It is a job hiring Plateform that helps HR to find out right candidate for the job from the colleges.
               Interview scheduling becomes really easy with Edjobster’s interview scheduling module.Pre-screening assessment is the most time saving
               feature for a recruiter."
-              demoLink="https://editor.soumya-jit.tech/"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={workflow}
+              isBlog={false}
+              title="WorkFlow"
+              description="WorkFlow is a comprehensive work management application designed to streamline and 
+              optimize task management processes within teams and organizations"
+              demoLink=""
             />
           </Col>
         </Row>
