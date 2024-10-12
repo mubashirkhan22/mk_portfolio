@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mk_portfolio/static/css/main.08830827.css",
-    "main.js": "/mk_portfolio/static/js/main.6cf27d83.js",
+    "main.css": "/mk_portfolio/static/css/main.2bdf03a2.css",
+    "main.js": "/mk_portfolio/static/js/main.53e16f1b.js",
     "static/js/415.4d6acbeb.chunk.js": "/mk_portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/mk_portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/mubashirkhan-cv.pdf": "/mk_portfolio/static/media/mubashirkhan-cv.72b326fe8b0f0762bbbc.pdf",
+    "static/media/mubashirkhan-cv.pdf": "/mk_portfolio/static/media/mubashirkhan-cv.7ae6a10850e8be77f8d0.pdf",
     "static/media/ngo-registration.jpg.jpg": "/mk_portfolio/static/media/ngo-registration.jpg.a8c34dbde0e71c3e6151.jpg",
     "static/media/codeEditor.png": "/mk_portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/mk3.jpeg": "/mk_portfolio/static/media/mk3.4e1d45dc61121ae95315.jpeg",
@@ -15,13 +15,13 @@
     "static/media/Workflow illustration.jpeg": "/mk_portfolio/static/media/Workflow illustration.323c67415fa173ec1e64.jpeg",
     "static/media/pre.svg": "/mk_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/mk_portfolio/index.html",
-    "main.08830827.css.map": "/mk_portfolio/static/css/main.08830827.css.map",
-    "main.6cf27d83.js.map": "/mk_portfolio/static/js/main.6cf27d83.js.map",
+    "main.2bdf03a2.css.map": "/mk_portfolio/static/css/main.2bdf03a2.css.map",
+    "main.53e16f1b.js.map": "/mk_portfolio/static/js/main.53e16f1b.js.map",
     "415.4d6acbeb.chunk.js.map": "/mk_portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/mk_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08830827.css",
-    "static/js/main.6cf27d83.js"
+    "static/css/main.2bdf03a2.css",
+    "static/js/main.53e16f1b.js"
   ]
 }
